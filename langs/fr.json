@@ -1,0 +1,24 @@
+{
+    "homescreen": {
+        "new_game": "Nouveau jeu",
+        "continue": "Continuer",
+        "settings": "paramètres",
+        "quit": "Quitter"
+    },
+
+    "act1_a": {
+        "ryan_cooper": "Ryan Cooper",
+        "loose_ends": "Loose Ends",
+        "gps_sent": "GPS Envoyé",
+        "join_pursuit": "Rejoignez la poursuite",
+        "join_pursuit_desc": "Rejoignez Ryan Cooper dans une course-poursuite effrénée à travers les rues de la ville."
+    },
+    "act1_chase": {
+        "stop_car_title": "Arrêtez la voiture en fuite",
+        "stop_car_desc": "Endommagez le véhicule en fuite pour le neutraliser."
+    },
+    "char_select": {
+        "jenna": "Jenna",
+        "derek": "Derek"
+    }
+}

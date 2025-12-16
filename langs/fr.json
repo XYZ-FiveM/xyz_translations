@@ -7,11 +7,11 @@
         "quit": "Quitter"
     },
 
-    "loader": {
-        "downloading_assets": "Downloading Resources...",
-        "loading_data": "Initializing...",
+    "loader.loading_data": {
+        "downloading_assets": "Waiting for server...",
+        "loading_data": "Just a moment...",
         "saving": "Saving Progress...",
-        "saved": "Progress Saved."
+        "saved": "Progress Saved!"
     },
 
     "actors_name": {

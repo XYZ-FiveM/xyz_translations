@@ -3,15 +3,15 @@
         "new_game": "Nytt Spill",
         "continue": "Fortsett",
         "settings": "Innstillinger",
-        "credits": "Credits",
+        "credits": "Medvirkende",
         "quit": "Avslutt"
     },
 
     "loader.loading_data": {
-        "downloading_assets": "Waiting for server...",
-        "loading_data": "Just a moment...",
-        "saving": "Saving Progress...",
-        "saved": "Progress Saved!"
+        "downloading_assets": "Venter på serveren...",
+        "loading_data": "Bare et øyeblikk...",
+        "saving": "Lagrer fremdrift...",
+        "saved": "Fremdrift lagret!"
     },
 
     "actors_name": {
@@ -20,15 +20,14 @@
         "ryan_cooper": "Anton Pærksen"
     },
 
-
     "act_a_phone_call_voice": {
-        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
-        "jenna_1": "You’re kidding me. I’m in the middle of a recon.",
-        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
-        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
-    },
+        "ryan_1": "Jenna… god timing å plukke meg opp nå, for jeg er i en vanskelig situasjon og kunne virkelig trenge deg akkurat nå.",
+        "jenna_1": "Du tuller med meg. Jeg er midt i en rekognosering.",
+        "ryan_2": "Jeg vet, jeg vet unnskyld! Det er bare det at den bilen for meg har jeg fulgt med på en stund og den er rett foran meg nå!",
+        "jenna_2": "Ja, ja send lokasjon da. Bare ikke få deg selv drept før jeg kommer meg dit."
+    },    
 
-    "act_one_a": {
+    "act1_a": {
         "loose_ends": "Loose Ends",
         "gps_sent": "Lokasjon er sendt",
         "join_pursuit": "Legg deg i Biljakten",

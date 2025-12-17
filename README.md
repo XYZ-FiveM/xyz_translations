@@ -15,3 +15,10 @@ This resource handles localization for the project. We are currently introducing
 
 ## Contributing
 If you would like to contribute by adding a new language or improving existing translations, please open a Pull Request.
+
+
+
+# **Disclaimer ⚠️** 
+**Please do not use Google Translate or any translations from AI** as they cannot be 100% correct.
+
+If your PRs are identified as using AI or Google Translate, they will be rejected from merging!

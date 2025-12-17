@@ -1,10 +1,10 @@
 {
     "homescreen": {
-        "new_game": "New Game",
-        "continue": "Continue",
-        "settings": "Settings",
-        "credits": "Credits",
-        "quit": "Quit"
+        "new_game": "Nowa gra",
+        "continue": "Kontynuuj",
+        "settings": "Opcje",
+        "credits": "Napisy",
+        "quit": "Wyjdź"
     },
 
     "loader.loading_data": {
@@ -22,21 +22,21 @@
 
 
     "act_a_phone_call_voice": {
-        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
-        "jenna_1": "You’re kidding me. I’m in the middle of a recon.",
-        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
-        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+        "ryan_1": "Jenna… świetne wyczucie czasu, słuchaj siedzę w niezłym bagnie. Bardzo przydała by mi się twoja pomoc.",
+        "jenna_1": "Chyba sobie żartujesz? Jestem w środku zwiadu.",
+        "ryan_2": "Wiem, wiem—Przepraszam! Poprostu—ten pojazd który śledzę od jakiegoś czasu.. Właśnie siedzę mu na plecach!",
+        "jenna_2": "Dobra, dobra—wyślij pinezke. Tylko nie daj się zabić zanim do ciebie dotrę."
     },
 
     "act_one_a": {
-        "loose_ends": "Loose Ends",
-        "gps_sent": "GPS Sent",
-        "join_pursuit": "Join the pursuit",
-        "join_pursuit_desc": "Join Ryan Cooper in the high-speed chase through the city streets."
+        "loose_ends": "Niedokończone sprawy",
+        "gps_sent": "Odebrano lokalizację GPS",
+        "join_pursuit": "Dołącz do pościgu",
+        "join_pursuit_desc": "Dołącz do Ryana Coopera w pościgu ulicami miasta."
     },
     
     "act_one_chase": {
-        "stop_car_title": "Stop the Fleeing Car",
-        "stop_car_desc": "Damage the escaping vehicle to disable it."
+        "stop_car_title": "Zatrzymaj uciekiniera",
+        "stop_car_desc": "Uszkodź pojazd aby go zatrzymać."
     }
 }

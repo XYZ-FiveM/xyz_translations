@@ -1,17 +1,17 @@
 {
     "homescreen": {
-        "new_game": "New Game",
-        "continue": "Continue",
-        "settings": "Settings",
-        "credits": "Credits",
-        "quit": "Quit"
+        "new_game": "Nuevo Juego",
+        "continue": "Continuar",
+        "settings": "Configuración",
+        "credits": "Creditos",
+        "quit": "Salir"
     },
 
     "loader.loading_data": {
-        "downloading_assets": "Waiting for server...",
-        "loading_data": "Just a moment...",
-        "saving": "Saving Progress...",
-        "saved": "Progress Saved!"
+        "downloading_assets": "Esperando al Servidor...",
+        "loading_data": "Solo un momento mas...",
+        "saving": "Guardando Progreso...",
+        "saved": "!Progreso Guardado¡"
     },
 
     "actors_name": {
@@ -22,22 +22,22 @@
 
 
     "act_a_phone_call_voice": {
-        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
-        "jenna_1": "You’re kidding me. I’m in the middle of a recon.",
-        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
-        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+        "ryan_1": "Jenna… qué buen momento para que atiendas, porque ahora mismo estoy metido hasta el cuello en una situación complicada y realmente necesito tu ayuda.",
+        "jenna_1": "Estás bromeando. Estoy en medio de un reconocimiento.",
+        "ryan_2": "Lo sé, lo sé—¡perdón! Es solo que… este vehículo al que llevo siguiendo un tiempo… ¡está justo frente a mí!",
+        "jenna_2": "Sí, sí—envía la ubicación. Solo no te mates antes de que llegue."
     },
 
-    "act_one_a": {
-        "loose_ends": "Loose Ends",
-        "gps_sent": "GPS Sent",
-        "join_pursuit": "Join the pursuit",
-        "join_pursuit_desc": "Join Ryan Cooper in the high-speed chase through the city streets."
+  "act_one_a": {
+        "loose_ends": "Cabos sueltos",
+        "gps_sent": "Ubicación enviada",
+        "join_pursuit": "Unirse a la persecución",
+        "join_pursuit_desc": "Únete a Ryan Cooper en una persecución a alta velocidad por las calles de la ciudad."
     },
     
     "act_one_chase": {
-        "stop_car_title": "Stop the Fleeing Car",
-        "stop_car_desc": "Damage the escaping vehicle to disable it."
+        "stop_car_title": "Detén el vehículo fugitivo",
+        "stop_car_desc": "Daña el vehículo en fuga para dejarlo fuera de funcionamiento."
     }
-
+    
 }

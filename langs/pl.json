@@ -8,10 +8,10 @@
     },
 
     "loader.loading_data": {
-        "downloading_assets": "Waiting for server...",
-        "loading_data": "Just a moment...",
-        "saving": "Saving Progress...",
-        "saved": "Progress Saved!"
+        "downloading_assets": "Oczekiwanie na serwer...",
+        "loading_data": "Jeszcze chwila...",
+        "saving": "Zapisywanie postępu...",
+        "saved": "Gra zapisana!"
     },
 
     "actors_name": {
